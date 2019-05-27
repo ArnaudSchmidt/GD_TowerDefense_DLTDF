@@ -1,9 +1,4 @@
 
-Visuel du dancefloor
-- effets de lumière sous les cases
-- sprites pour les bots
-- sprites pour les ressources
-
 Musiques et feedbacks
 - trouver 6 musiques avec des BPM différents (de 120 à 60)
 - cliques divers (barre d'actions et écran)
