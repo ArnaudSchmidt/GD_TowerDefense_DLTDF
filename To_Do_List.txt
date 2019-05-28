@@ -1,11 +1,9 @@
 
 Musiques et feedbacks
-- trouver 6 musiques avec des BPM différents (de 120 à 60)
-- cliques divers (barre d'actions et écran)
 - action impossible
+- effets des ressources
 
 Ecran titre
-- score
 - options
 - démarrer
 - fermer
@@ -19,10 +17,6 @@ Système de sauvegarde
 Visuel écran de jeu
 - faire un cadre à l'écran principal
 - texture de fond pour la barre d'action
-
-Mettre en place les options
-- quitter (retour menu)
-- réglages sons et musiques
 
 Sytème de niveaux
 - plugin de rexrainbow pour les excels
