@@ -3,22 +3,7 @@ Musiques et feedbacks
 - action impossible
 - effets des ressources
 
-Ecran titre
-- options
-- démarrer
-- fermer
-
-Mise en place tuto
-
-Conditions de victoire/défaite
-
 Système de sauvegarde
 
-Visuel écran de jeu
-- faire un cadre à l'écran principal
-- texture de fond pour la barre d'action
-
 Sytème de niveaux
-- plugin de rexrainbow pour les excels
-- rationaliser les niveaux
-- implémentation
+- implémentation : bug le csv ne contient rien...
